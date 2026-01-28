@@ -9,11 +9,11 @@ Lumea Beauty Salon është një projekt **frontend web** i ndërtuar për të pr
 
 Web-faqja përmban disa faqe kryesore që paraqesin shërbimet e sallonit:
 
-* 💇‍♀️ **Hair Services** – prerje, stilime dhe trajtime për flokë
-* 👁️ **Lashes & Brows** – qerpikë dhe vetulla
-* 💄 **Makeup** – shërbime grimi
-* 💅 **Nails** – manikyr dhe pedikyr
-* 🌿 **Treatments** – trajtime shtesë për bukuri
+ **Hair Services** – prerje, stilime dhe trajtime për flokë
+ **Lashes & Brows** – qerpikë dhe vetulla
+ **Makeup** – shërbime grimi
+ **Nails** – manikyr dhe pedikyr
+**Treatments** – trajtime shtesë për bukuri
 
 ---
 
